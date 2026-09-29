@@ -1,8 +1,5 @@
 {
-  "framework": null,
-  "outputDirectory": ".",
-  "cleanUrls": true,
   "rewrites": [
-    { "source": "/", "destination": "/routine_test_report_batch.html" }
+    { "source": "/routine_test_report_batch.html", "destination": "/index.html" }
   ]
 }
